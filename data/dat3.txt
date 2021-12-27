@@ -1,0 +1,5 @@
+name,dept,score
+Kim,Statistics,92
+Lee,Mathematics,95
+Park,English,90
+Choi,Applied Mathematics,91
